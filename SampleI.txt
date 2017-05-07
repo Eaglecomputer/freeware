@@ -1,0 +1,15 @@
+//SampleI
+HY,Hanako,名,First Name
+HY,Yamada,姓,Last Name
+HY,ハナコ,名,
+HY,ヤマダ,姓,
+HY,花子,名,
+HY,山田,姓,
+TY,Taro,名,First Name
+TY,Tarou,名,First Name
+TY,Yamada,姓,Last Name
+TY,タロウ,名,
+TY,ヤマダ,姓,
+TY,山田,姓,
+TY,太朗,名,
+TY,太郎,名,
